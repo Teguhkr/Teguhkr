@@ -1,5 +1,5 @@
 # <a href="https://teguhkr.github.io/" target="_blank">My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
+<p align="justify">This website showcases my projects, web presence, story, work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/teguhkr/teguhkr.github.io)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]( https://teguhkr.github.io/)
@@ -13,11 +13,11 @@
 
 # Sections 📚
 
-✔️ Mini intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-✔️ Contact me
+* Mini intro\
+* About me \
+* Skills\
+* Projects\
+* Contact me
 
 ## Tools Used 🛠️
 * [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
