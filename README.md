@@ -13,10 +13,10 @@
 
 # Sections 📚
 
-* Mini intro\
-* About me \
-* Skills\
-* Projects\
+* Mini intro
+* About me 
+* Skills
+* Projects
 * Contact me
 
 ## Tools Used 🛠️
