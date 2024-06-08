@@ -22,7 +22,7 @@
 ## Tools Used 🛠️
 * [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
 * [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
-* [<b>Animista</b>](https://animista.net/) - To use Interactive animations
+* [<b>Animista</b>](https://animista.net/) - For interactive animations.
 
 
-Please contact me at teguhk356@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+For feedback, please contact me at teguhk356@gmail.com. :star: Star it if you like it!
