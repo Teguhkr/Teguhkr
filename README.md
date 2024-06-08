@@ -3,7 +3,7 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/teguhkr/teguhkr.github.io)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]( https://teguhkr.github.io/)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
+[![Author](https://img.shields.io/badge/Author-Teguh%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
 
 <img width="100%" alt="Portfolio Screenshot" src="https://github.com/Teguhkr/teguhkr/blob/main/src/png/Preview-web.jpeg">
