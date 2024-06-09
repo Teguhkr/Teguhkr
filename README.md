@@ -1,4 +1,4 @@
-# <a href="https://github.com/Teguhkr.github.io/Teguhkr" target="_blank">My Portfolio</a>
+# <a href="https://Teguhkr.github.io/Teguhkr" target="_blank">My Portfolio</a>
 <p align="justify">This website showcases my projects, web presence, story, work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Teguhkr/Teguhkr)
