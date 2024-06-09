@@ -7,11 +7,13 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-12%20Jun%202024-yellow.svg)](https://github.com/Teguhkr/Teguhkr)
 
 <img width="100%" alt="Portfolio Screenshot" src="https://github.com/Teguhkr/teguhkr/blob/main/src/png/Preview-web.jpeg">
+<img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif">
+
 
 
 :star: Star me on GitHub — it helps!
 
-# Sections 📚
+<h3 align="left"> Sections 📚</h3>
 
 * Mini intro
 * About me 
@@ -19,10 +21,11 @@
 * Projects
 * Contact me
 
-## Tools Used 🛠️
-* [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
-* [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
-* [<b>Animista</b>](https://animista.net/) - For interactive animations.
-
+<h3 align="left">  Tools Used 🛠️ </h3>
+&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/">GitHub</a> - To host my static website (HTML, CSS, JS).<br>
+&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/michalsnik/aos">Animate on scroll library</a> - To animate my website while scrolling.<br>
+&nbsp&nbsp&nbsp&nbsp<a href="https://animista.net/">Animista</a> - For interactive animations.<br>
+<br>
+<br>
 
 For feedback, please contact me at teguhk356@gmail.com. :star: Star it if you like it!
