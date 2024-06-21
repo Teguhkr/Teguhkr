@@ -6,7 +6,7 @@
 [![Author](https://img.shields.io/badge/Author-Teguh%20Karya%20Rizki-purple.svg)](https://www.instagram.com/teguhk23_/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-12%20Jun%202024-yellow.svg)](https://github.com/Teguhkr/Teguhkr)
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/Teguhkr/teguhkr/blob/main/src/png/Preview-web.jpeg">
+<img width="100%" alt="Portfolio Screenshot" src="https://github.com/Teguhkr/teguhkr/blob/main/src/webp/porto.gif">
 <img align="right" width="350" alt="coding" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif">
 
 
