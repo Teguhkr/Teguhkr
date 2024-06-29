@@ -1,4 +1,6 @@
-# <a href="https://Teguhkr.github.io/Teguhkr" target="_blank">My Portfolio</a>
+<h1 align="center">Hi 👋, I'm Teguh</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<br>
 <p align="justify">This website showcases my projects, web presence, story, work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Teguhkr/Teguhkr)
@@ -27,5 +29,10 @@
 &nbsp&nbsp&nbsp&nbsp<a href="https://animista.net/">Animista</a> - For interactive animations.<br>
 <br>
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=teguhkr&theme=nightowl)](https://git.io/streak-stats)
+
+
+
 
 For feedback, please contact me at teguhk356@gmail.com. :star: Star it if you like it!
